@@ -12,3 +12,5 @@ const double = numbers.map( x => x*2 )
 
 console.log(numbers)
 console.log(double)
+
+
